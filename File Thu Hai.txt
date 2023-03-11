@@ -1,3 +1,7 @@
 Noi dung file thu hai bai tap 
 
+<<<<<<< HEAD
 Noi dung diong thu hai may hai
+=======
+Dong thu 3 tren may 1
+>>>>>>> 3a297305a343530bf2ac3b41f11ab20d6c4e0377
