@@ -1,1 +1,3 @@
 Noi Dung nhan vien B
+
+Noi dung lam viec cua nhan vien B
