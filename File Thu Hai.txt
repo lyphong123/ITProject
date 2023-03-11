@@ -1,13 +1,16 @@
+
 Noi dung file thu hai bai tap 
 
-<<<<<<< HEAD
 Dong thu 3 tren may 1
 
 Dong thu 4 tren may 1
-=======
-<<<<<<< HEAD
+
 Noi dung diong thu hai may hai
-=======
+
 Dong thu 3 tren may 1
->>>>>>> 3a297305a343530bf2ac3b41f11ab20d6c4e0377
->>>>>>> 2968e1a9e111684b578e767fb0b8c47f3d53629d
+
+Noi dung file thu hai
+day la 2
+
+Noi dung file thu hai bai tap 
+
