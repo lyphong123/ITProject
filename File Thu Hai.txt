@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Noi dung file thu hai
 day la 2
+=======
+Noi dung file thu hai bai tap 
+
+>>>>>>> 9bfbc74b9d2648d0395b4c315cc422f909cb24fc
