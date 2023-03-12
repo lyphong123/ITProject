@@ -1,5 +1,9 @@
-Noi Dung nhan vien A
+Noi Dung nhan vien aA
 
-Noi dung tren nhanh A
 
-Them GIT GUI hear
+
+Them GIT GUI 
+
+
+
+Them noi dung nhan vien A
