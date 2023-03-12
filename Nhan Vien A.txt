@@ -1,3 +1,5 @@
 Noi Dung nhan vien A
 
 Noi dung tren nhanh A
+
+Them GIT GUI hear
