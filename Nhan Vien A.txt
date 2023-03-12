@@ -6,3 +6,6 @@ Them GIT GUI hear
 
 khong biet them gi
 
+test
+
+
