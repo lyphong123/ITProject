@@ -5,8 +5,7 @@ Noi Dung nhan vien aAA
 Them GIT GUI hear
 
 khong biet them gi
-
-test noi dung sourcetree
+noi dung sourcetree
 
 
 them noi dung SourceTree
