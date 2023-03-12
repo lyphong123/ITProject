@@ -6,6 +6,10 @@ Them GIT GUI hear
 
 khong biet them gi
 
-test
+test noi dung sourcetree
+
+
+them noi dung SourceTree
+
 
 
